@@ -35,7 +35,7 @@ terraform destroy  →  Clean teardown, zero orphaned resources
 
 ### terraform apply — Infrastructure Provisioned
 <!-- Replace with your actual screenshot -->
-![Terraform Apply](screenshots/01-terraform-apply.png) n
+![Terraform Apply](screenshots/start.png)
 
 ### AWS Console — EC2 Instance Running
 <!-- Replace with your actual screenshot -->
@@ -51,11 +51,11 @@ terraform destroy  →  Clean teardown, zero orphaned resources
 
 ### GitHub Actions — Terraform Validate Green
 <!-- Replace with your actual screenshot -->
-![GitHub Actions](screenshots/05-github-actions-green.png)
+![GitHub Actions](screenshots/actions.png)
 
 ### terraform destroy — Clean Teardown
 <!-- Replace with your actual screenshot -->
-![Terraform Destroy](screenshots/06-terraform-destroy.png)
+![Terraform Destroy](screenshots/end.png)
 
 ---
 
