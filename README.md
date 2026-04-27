@@ -35,7 +35,7 @@ terraform destroy  →  Clean teardown, zero orphaned resources
 
 ### terraform apply — Infrastructure Provisioned
 <!-- Replace with your actual screenshot -->
-![Terraform Apply](screenshots/01-terraform-apply.png)
+![Terraform Apply](screenshots/01-terraform-apply.png) n
 
 ### AWS Console — EC2 Instance Running
 <!-- Replace with your actual screenshot -->
