@@ -39,15 +39,15 @@ terraform destroy  →  Clean teardown, zero orphaned resources
 
 ### AWS Console — EC2 Instance Running
 <!-- Replace with your actual screenshot -->
-![EC2 Running](screenshots/02-ec2-running.png)
+![EC2 Running](screenshots/EC2.png)
 
 ### AWS CloudWatch — Dashboard Live
 <!-- Replace with your actual screenshot -->
-![CloudWatch Dashboard](screenshots/03-cloudwatch-dashboard.png)
+![CloudWatch Dashboard](screenshots/CloudWatch.png)
 
 ### Health Check Script — All Green
 <!-- Replace with your actual screenshot -->
-![Health Check](screenshots/04-health-check-green.png)
+![Health Check](screenshots/health-check.png)
 
 ### GitHub Actions — Terraform Validate Green
 <!-- Replace with your actual screenshot -->
